@@ -1,0 +1,30 @@
+*{
+form{
+    margin: 20px;
+}
+}
+input{
+    margin-bottom: 7%;
+}
+form{
+    width: 30%;
+    margin: auto;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCkggylLHFBGxaTA6urhOEUSPxtNCSY-DzA&usqp=CAU);
+}
+label{
+    color: aliceblue;
+}
+body{
+    font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    text-align: center;
+}
+
+.dembele{
+    background-color: rgb(83, 70, 70);
+    border-radius: 50px;
+    color: white;
+}
